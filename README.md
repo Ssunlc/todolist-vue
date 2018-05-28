@@ -9,4 +9,4 @@ vue-cli+webpack搭建的项目，header，footer,section(todo)>item+tabs都是�
 ## 主要难点（菜鸟觉得0.0）
 - tab栏里的事件，数据传递，以及筛选并反馈到交互
 - 子组件向父组件传递数据    
-![photoShow](https://github.com/Ssunlc/todolist-vue/src/assets/images/photoShow.png)
+![photoShow](https://github.com/Ssunlc/todolist-vue/raw/master/src/assets/images/photoShow.png)
